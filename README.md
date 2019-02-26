@@ -1,7 +1,7 @@
 # testBooks
 API TESTE BACKEND
 
-//                                       |   DESAFIO BACKEND - GUIABOLSO 2019  |                                                       \\
+//                                       |   DESAFIO BACKEND   |                                                       \\
 
 
 NOME: CAIO CAMPOI ACEDO
